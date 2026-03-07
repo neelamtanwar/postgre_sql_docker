@@ -1,0 +1,501 @@
+id,book_name,author,publication_year,price,is_available
+1,War and Peace,Leo Tolstoy,1851-07-12,1928,TRUE
+2,Frankenstein,Mary Shelley,1868-10-14,957,TRUE
+3,The Odyssey,Homer,1875-10-21,1269,FALSE
+4,The Odyssey,Homer,11-06-1946,280,FALSE
+5,The Picture of Dorian Gray,Oscar Wilde,1892-06-19,999,FALSE
+6,Frankenstein,Mary Shelley,1885-09-23,826,TRUE
+7,The Brothers Karamazov,Fyodor Dostoevsky,1875-01-24,605,FALSE
+8,Wuthering Heights,Emily Brontë,1854-06-30,784,TRUE
+9,War and Peace,Leo Tolstoy,15-07-2016,1865,TRUE
+10,Wuthering Heights,Emily Brontë,08-10-1992,741,TRUE
+11,War and Peace,Leo Tolstoy,1851-12-17,1396,TRUE
+12,A Tale of Two Cities,Charles Dickens,07-06-1984,677,TRUE
+13,Sense and Sensibility,Jane Austen,27-04-1940,733,FALSE
+14,Jane Eyre,Charlotte Brontë,1892-12-23,1765,TRUE
+15,Anna Karenina,Leo Tolstoy,18-09-1926,1330,TRUE
+16,The Picture of Dorian Gray,Oscar Wilde,1894-02-02,472,FALSE
+17,Great Expectations,Charles Dickens,22-08-1998,1954,FALSE
+18,The Picture of Dorian Gray,Oscar Wilde,26-12-1909,1319,TRUE
+19,Anna Karenina,Leo Tolstoy,1850-11-11,700,TRUE
+20,The Brothers Karamazov,Fyodor Dostoevsky,13-09-1979,805,TRUE
+21,Les Misérables,Victor Hugo,25-02-1980,665,FALSE
+22,Jane Eyre,Charlotte Brontë,14-02-1990,1810,FALSE
+23,Les Misérables,Victor Hugo,11-09-1913,316,TRUE
+24,The Odyssey,Homer,12-03-1967,471,FALSE
+25,Dracula,Bram Stoker,1885-12-22,1517,FALSE
+26,The Picture of Dorian Gray,Oscar Wilde,1893-09-16,976,FALSE
+27,Wuthering Heights,Emily Brontë,27-03-1938,340,FALSE
+28,Moby-Dick,Herman Melville,08-04-1907,766,FALSE
+29,Crime and Punishment,Fyodor Dostoevsky,1896-03-02,1149,FALSE
+30,Sense and Sensibility,Jane Austen,23-02-1939,1470,FALSE
+31,Crime and Punishment,Fyodor Dostoevsky,01-06-1962,1876,FALSE
+32,War and Peace,Leo Tolstoy,1872-10-18,910,TRUE
+33,Wuthering Heights,Emily Brontë,27-08-2010,1093,FALSE
+34,The Brothers Karamazov,Fyodor Dostoevsky,1884-11-18,1255,TRUE
+35,Pride and Prejudice,Jane Austen,10-07-1908,1634,TRUE
+36,Don Quixote,Miguel de Cervantes,1882-07-20,1503,TRUE
+37,A Tale of Two Cities,Charles Dickens,13-12-1979,596,TRUE
+38,The Picture of Dorian Gray,Oscar Wilde,31-08-1955,1461,FALSE
+39,Frankenstein,Mary Shelley,08-09-1988,1331,FALSE
+40,The Brothers Karamazov,Fyodor Dostoevsky,09-09-1964,1721,FALSE
+41,A Tale of Two Cities,Charles Dickens,20-05-1971,1696,FALSE
+42,Moby-Dick,Herman Melville,13-10-2015,1323,TRUE
+43,Sense and Sensibility,Jane Austen,26-03-2016,1721,TRUE
+44,Wuthering Heights,Emily Brontë,1886-12-23,679,FALSE
+45,Jane Eyre,Charlotte Brontë,22-03-1969,1972,TRUE
+46,Frankenstein,Mary Shelley,04-12-1902,1425,TRUE
+47,The Adventures of Sherlock Holmes,Arthur Conan Doyle,21-11-2006,1196,FALSE
+48,Great Expectations,Charles Dickens,1855-05-01,1293,FALSE
+49,Jane Eyre,Charlotte Brontë,1895-05-05,442,TRUE
+50,Pride and Prejudice,Jane Austen,1892-11-07,611,FALSE
+51,The Iliad,Homer,23-06-1926,1187,TRUE
+52,The Odyssey,Homer,1890-11-14,680,TRUE
+53,Dracula,Bram Stoker,30-04-1917,1045,FALSE
+54,Don Quixote,Miguel de Cervantes,1858-10-21,371,FALSE
+55,War and Peace,Leo Tolstoy,18-11-1972,621,TRUE
+56,Frankenstein,Mary Shelley,07-07-1952,616,TRUE
+57,Crime and Punishment,Fyodor Dostoevsky,08-01-1958,319,TRUE
+58,Sense and Sensibility,Jane Austen,07-05-1965,1792,TRUE
+59,Wuthering Heights,Emily Brontë,17-06-1915,1255,TRUE
+60,The Picture of Dorian Gray,Oscar Wilde,30-10-1912,525,FALSE
+61,The Picture of Dorian Gray,Oscar Wilde,1853-04-27,1160,FALSE
+62,The Adventures of Sherlock Holmes,Arthur Conan Doyle,12-08-1956,1391,TRUE
+63,Great Expectations,Charles Dickens,21-12-1954,1113,FALSE
+64,The Iliad,Homer,27-01-1905,1389,TRUE
+65,Sense and Sensibility,Jane Austen,16-06-2000,991,FALSE
+66,Dracula,Bram Stoker,21-02-2010,787,TRUE
+67,The Picture of Dorian Gray,Oscar Wilde,26-05-2020,292,TRUE
+68,The Brothers Karamazov,Fyodor Dostoevsky,16-03-1951,1115,TRUE
+69,Pride and Prejudice,Jane Austen,08-02-2003,1198,FALSE
+70,Don Quixote,Miguel de Cervantes,08-06-1951,1596,TRUE
+71,Les Misérables,Victor Hugo,1858-03-31,1860,FALSE
+72,Don Quixote,Miguel de Cervantes,08-03-1992,1007,FALSE
+73,The Count of Monte Cristo,Alexandre Dumas,19-10-2019,635,FALSE
+74,Jane Eyre,Charlotte Brontë,12-04-1955,1698,FALSE
+75,Don Quixote,Miguel de Cervantes,1856-12-11,986,TRUE
+76,Jane Eyre,Charlotte Brontë,1867-12-24,1372,FALSE
+77,Les Misérables,Victor Hugo,26-05-2020,744,FALSE
+78,Jane Eyre,Charlotte Brontë,28-11-1997,551,FALSE
+79,Anna Karenina,Leo Tolstoy,1887-08-26,1451,FALSE
+80,The Brothers Karamazov,Fyodor Dostoevsky,15-03-1995,431,TRUE
+81,Sense and Sensibility,Jane Austen,04-02-1926,1307,TRUE
+82,Wuthering Heights,Emily Brontë,06-10-1975,1082,FALSE
+83,The Picture of Dorian Gray,Oscar Wilde,04-11-1987,840,TRUE
+84,The Adventures of Sherlock Holmes,Arthur Conan Doyle,29-05-1905,1897,TRUE
+85,Great Expectations,Charles Dickens,1899-06-05,1336,FALSE
+86,Jane Eyre,Charlotte Brontë,03-07-1936,726,FALSE
+87,Dracula,Bram Stoker,30-08-1963,659,TRUE
+88,Les Misérables,Victor Hugo,10-06-2004,1024,TRUE
+89,Frankenstein,Mary Shelley,1863-11-03,1368,FALSE
+90,War and Peace,Leo Tolstoy,08-11-1946,1314,FALSE
+91,Sense and Sensibility,Jane Austen,05-11-2019,1835,TRUE
+92,Les Misérables,Victor Hugo,11-10-1991,1057,FALSE
+93,Sense and Sensibility,Jane Austen,12-04-2005,233,FALSE
+94,Sense and Sensibility,Jane Austen,30-04-1960,1022,FALSE
+95,Frankenstein,Mary Shelley,17-08-1959,1267,TRUE
+96,The Adventures of Sherlock Holmes,Arthur Conan Doyle,09-10-2006,315,TRUE
+97,Wuthering Heights,Emily Brontë,1894-07-27,1379,FALSE
+98,Don Quixote,Miguel de Cervantes,1865-06-01,354,FALSE
+99,The Adventures of Sherlock Holmes,Arthur Conan Doyle,04-06-1962,1710,TRUE
+100,Sense and Sensibility,Jane Austen,12-12-1911,1381,FALSE
+101,Sense and Sensibility,Jane Austen,05-12-1921,1820,TRUE
+102,Moby-Dick,Herman Melville,05-03-1998,1500,TRUE
+103,A Tale of Two Cities,Charles Dickens,19-06-1914,1410,TRUE
+104,Wuthering Heights,Emily Brontë,05-01-1984,1641,TRUE
+105,Don Quixote,Miguel de Cervantes,19-06-1929,886,TRUE
+106,The Picture of Dorian Gray,Oscar Wilde,1863-11-16,1306,TRUE
+107,Moby-Dick,Herman Melville,1883-03-18,468,FALSE
+108,The Odyssey,Homer,23-09-1977,212,FALSE
+109,Dracula,Bram Stoker,02-06-1928,1112,FALSE
+110,A Tale of Two Cities,Charles Dickens,02-08-2020,1837,TRUE
+111,The Picture of Dorian Gray,Oscar Wilde,1855-02-05,1741,FALSE
+112,Jane Eyre,Charlotte Brontë,05-05-1970,343,TRUE
+113,A Tale of Two Cities,Charles Dickens,24-07-1988,1438,TRUE
+114,Pride and Prejudice,Jane Austen,17-10-1995,216,FALSE
+115,The Brothers Karamazov,Fyodor Dostoevsky,1888-05-27,600,FALSE
+116,Crime and Punishment,Fyodor Dostoevsky,1887-12-26,1430,TRUE
+117,Anna Karenina,Leo Tolstoy,1887-03-09,846,FALSE
+118,Frankenstein,Mary Shelley,25-01-1972,215,TRUE
+119,Pride and Prejudice,Jane Austen,1872-07-12,522,FALSE
+120,Crime and Punishment,Fyodor Dostoevsky,11-04-2012,646,TRUE
+121,Wuthering Heights,Emily Brontë,28-06-1966,815,TRUE
+122,The Iliad,Homer,26-08-1967,268,FALSE
+123,The Odyssey,Homer,1883-05-23,1124,TRUE
+124,A Tale of Two Cities,Charles Dickens,30-05-1963,1684,FALSE
+125,Anna Karenina,Leo Tolstoy,12-03-1952,1202,FALSE
+126,Crime and Punishment,Fyodor Dostoevsky,29-02-1996,1597,FALSE
+127,The Odyssey,Homer,07-10-1996,427,TRUE
+128,War and Peace,Leo Tolstoy,1859-08-07,1249,TRUE
+129,Wuthering Heights,Emily Brontë,14-05-1922,543,TRUE
+130,The Picture of Dorian Gray,Oscar Wilde,1857-10-12,880,FALSE
+131,War and Peace,Leo Tolstoy,27-04-1954,1426,FALSE
+132,Sense and Sensibility,Jane Austen,18-08-1999,1313,TRUE
+133,The Count of Monte Cristo,Alexandre Dumas,13-02-1921,1798,TRUE
+134,Pride and Prejudice,Jane Austen,02-02-1975,934,FALSE
+135,Dracula,Bram Stoker,20-04-1977,1690,FALSE
+136,A Tale of Two Cities,Charles Dickens,25-07-1956,1977,FALSE
+137,Sense and Sensibility,Jane Austen,26-02-2010,839,FALSE
+138,War and Peace,Leo Tolstoy,1865-03-08,422,FALSE
+139,Dracula,Bram Stoker,14-04-1956,1931,FALSE
+140,Crime and Punishment,Fyodor Dostoevsky,17-01-2017,1336,FALSE
+141,War and Peace,Leo Tolstoy,1889-10-04,1925,FALSE
+142,Sense and Sensibility,Jane Austen,14-12-1930,324,TRUE
+143,Wuthering Heights,Emily Brontë,1853-06-05,412,FALSE
+144,Don Quixote,Miguel de Cervantes,29-03-1973,787,FALSE
+145,Jane Eyre,Charlotte Brontë,03-09-1942,715,FALSE
+146,The Odyssey,Homer,01-01-1984,1055,TRUE
+147,Wuthering Heights,Emily Brontë,31-08-2005,1089,TRUE
+148,Jane Eyre,Charlotte Brontë,21-07-1930,1372,FALSE
+149,The Picture of Dorian Gray,Oscar Wilde,16-02-1943,352,TRUE
+150,The Picture of Dorian Gray,Oscar Wilde,14-10-1954,628,FALSE
+151,Great Expectations,Charles Dickens,06-02-1945,1477,TRUE
+152,The Iliad,Homer,1880-12-09,244,TRUE
+153,Crime and Punishment,Fyodor Dostoevsky,1887-05-07,1755,TRUE
+154,The Count of Monte Cristo,Alexandre Dumas,16-03-1938,1449,TRUE
+155,Frankenstein,Mary Shelley,15-10-1995,1525,FALSE
+156,The Picture of Dorian Gray,Oscar Wilde,05-03-1936,444,TRUE
+157,War and Peace,Leo Tolstoy,1887-02-11,238,FALSE
+158,The Brothers Karamazov,Fyodor Dostoevsky,21-05-1937,1220,FALSE
+159,Wuthering Heights,Emily Brontë,18-02-1980,429,FALSE
+160,The Brothers Karamazov,Fyodor Dostoevsky,20-04-1914,1542,TRUE
+161,Les Misérables,Victor Hugo,1861-04-15,445,FALSE
+162,The Count of Monte Cristo,Alexandre Dumas,1882-05-02,1574,FALSE
+163,Les Misérables,Victor Hugo,1884-03-03,1891,FALSE
+164,The Picture of Dorian Gray,Oscar Wilde,31-07-1935,561,FALSE
+165,The Picture of Dorian Gray,Oscar Wilde,20-04-1950,1535,TRUE
+166,Great Expectations,Charles Dickens,25-07-1949,412,FALSE
+167,The Adventures of Sherlock Holmes,Arthur Conan Doyle,1878-05-28,990,FALSE
+168,Frankenstein,Mary Shelley,15-04-1957,807,TRUE
+169,Dracula,Bram Stoker,27-05-1947,255,FALSE
+170,A Tale of Two Cities,Charles Dickens,05-05-2005,1518,TRUE
+171,The Picture of Dorian Gray,Oscar Wilde,15-05-1972,959,TRUE
+172,The Iliad,Homer,23-08-1974,1124,TRUE
+173,A Tale of Two Cities,Charles Dickens,27-05-1958,987,TRUE
+174,A Tale of Two Cities,Charles Dickens,05-04-1968,1263,TRUE
+175,Moby-Dick,Herman Melville,02-06-1939,1292,TRUE
+176,The Iliad,Homer,05-05-1928,942,TRUE
+177,War and Peace,Leo Tolstoy,1881-06-10,1869,TRUE
+178,The Count of Monte Cristo,Alexandre Dumas,1866-10-10,509,TRUE
+179,Wuthering Heights,Emily Brontë,1888-03-24,345,TRUE
+180,Moby-Dick,Herman Melville,29-11-1946,1407,TRUE
+181,Anna Karenina,Leo Tolstoy,1899-12-23,355,FALSE
+182,A Tale of Two Cities,Charles Dickens,23-03-1901,1087,TRUE
+183,Don Quixote,Miguel de Cervantes,12-02-1959,1990,FALSE
+184,Jane Eyre,Charlotte Brontë,02-11-1905,1042,FALSE
+185,Crime and Punishment,Fyodor Dostoevsky,1859-07-22,591,TRUE
+186,The Iliad,Homer,16-09-1969,1262,TRUE
+187,Jane Eyre,Charlotte Brontë,18-10-1968,1078,FALSE
+188,Jane Eyre,Charlotte Brontë,24-02-1933,1652,TRUE
+189,The Brothers Karamazov,Fyodor Dostoevsky,09-06-1951,371,FALSE
+190,The Count of Monte Cristo,Alexandre Dumas,04-05-1905,982,FALSE
+191,Pride and Prejudice,Jane Austen,12-12-2006,1883,FALSE
+192,A Tale of Two Cities,Charles Dickens,13-12-1931,280,FALSE
+193,The Iliad,Homer,1893-05-25,285,FALSE
+194,War and Peace,Leo Tolstoy,1850-07-17,364,FALSE
+195,Les Misérables,Victor Hugo,15-06-1960,349,FALSE
+196,The Odyssey,Homer,21-11-1914,757,TRUE
+197,The Iliad,Homer,1876-12-05,300,TRUE
+198,The Picture of Dorian Gray,Oscar Wilde,07-12-1938,258,TRUE
+199,The Odyssey,Homer,07-12-1904,284,TRUE
+200,The Adventures of Sherlock Holmes,Arthur Conan Doyle,26-01-1950,884,TRUE
+201,Anna Karenina,Leo Tolstoy,06-08-1953,1239,FALSE
+202,Anna Karenina,Leo Tolstoy,18-01-1980,1371,FALSE
+203,The Iliad,Homer,12-07-1971,556,TRUE
+204,The Count of Monte Cristo,Alexandre Dumas,1898-06-24,1287,FALSE
+205,Anna Karenina,Leo Tolstoy,05-12-2002,840,TRUE
+206,Frankenstein,Mary Shelley,1892-03-03,1990,TRUE
+207,Pride and Prejudice,Jane Austen,21-11-1920,718,FALSE
+208,Dracula,Bram Stoker,1894-01-10,1894,FALSE
+209,The Iliad,Homer,13-05-1901,1525,FALSE
+210,Don Quixote,Miguel de Cervantes,02-03-1930,1525,TRUE
+211,Wuthering Heights,Emily Brontë,03-11-1916,263,TRUE
+212,A Tale of Two Cities,Charles Dickens,02-08-1918,1482,FALSE
+213,Dracula,Bram Stoker,1890-12-25,723,FALSE
+214,Sense and Sensibility,Jane Austen,1862-09-20,1225,TRUE
+215,Wuthering Heights,Emily Brontë,1858-11-30,1144,FALSE
+216,The Adventures of Sherlock Holmes,Arthur Conan Doyle,04-02-1908,1749,TRUE
+217,Anna Karenina,Leo Tolstoy,09-10-1981,1049,FALSE
+218,Sense and Sensibility,Jane Austen,18-03-1959,1291,TRUE
+219,The Iliad,Homer,15-11-1979,919,FALSE
+220,Great Expectations,Charles Dickens,18-06-1965,1844,TRUE
+221,Crime and Punishment,Fyodor Dostoevsky,1861-08-01,1755,TRUE
+222,The Brothers Karamazov,Fyodor Dostoevsky,08-07-1971,1859,TRUE
+223,Moby-Dick,Herman Melville,30-04-1972,1505,TRUE
+224,Anna Karenina,Leo Tolstoy,28-10-1974,1655,FALSE
+225,The Iliad,Homer,07-02-1949,1726,TRUE
+226,A Tale of Two Cities,Charles Dickens,19-11-1994,665,TRUE
+227,The Brothers Karamazov,Fyodor Dostoevsky,20-04-1995,574,TRUE
+228,The Odyssey,Homer,1865-05-09,479,FALSE
+229,Great Expectations,Charles Dickens,31-03-1978,1295,FALSE
+230,Les Misérables,Victor Hugo,02-12-2013,304,TRUE
+231,Les Misérables,Victor Hugo,30-11-2013,1070,FALSE
+232,War and Peace,Leo Tolstoy,1899-02-02,1903,FALSE
+233,The Odyssey,Homer,18-07-1988,1987,FALSE
+234,Pride and Prejudice,Jane Austen,17-08-1991,1830,TRUE
+235,Pride and Prejudice,Jane Austen,06-11-2013,1626,FALSE
+236,Jane Eyre,Charlotte Brontë,22-06-1976,332,FALSE
+237,Sense and Sensibility,Jane Austen,27-11-2013,1500,FALSE
+238,Don Quixote,Miguel de Cervantes,1851-08-08,789,FALSE
+239,Don Quixote,Miguel de Cervantes,04-11-1992,1293,TRUE
+240,Anna Karenina,Leo Tolstoy,1853-02-08,1766,FALSE
+241,Wuthering Heights,Emily Brontë,13-04-1999,1761,TRUE
+242,Les Misérables,Victor Hugo,1898-09-22,1906,FALSE
+243,Great Expectations,Charles Dickens,21-07-1929,1009,TRUE
+244,Jane Eyre,Charlotte Brontë,04-12-1966,1316,TRUE
+245,Sense and Sensibility,Jane Austen,26-08-1948,397,TRUE
+246,Don Quixote,Miguel de Cervantes,26-10-2017,1976,FALSE
+247,Jane Eyre,Charlotte Brontë,1897-03-08,1679,FALSE
+248,Moby-Dick,Herman Melville,08-06-1980,1015,TRUE
+249,The Count of Monte Cristo,Alexandre Dumas,09-05-1913,1098,FALSE
+250,Great Expectations,Charles Dickens,1889-05-20,573,FALSE
+251,Jane Eyre,Charlotte Brontë,10-08-1916,1411,FALSE
+252,Great Expectations,Charles Dickens,30-08-1952,949,FALSE
+253,Great Expectations,Charles Dickens,20-07-1916,1734,FALSE
+254,Moby-Dick,Herman Melville,03-09-2008,1755,FALSE
+255,Les Misérables,Victor Hugo,24-11-1946,1177,FALSE
+256,Don Quixote,Miguel de Cervantes,1892-11-30,869,FALSE
+257,The Brothers Karamazov,Fyodor Dostoevsky,03-02-1912,801,TRUE
+258,Great Expectations,Charles Dickens,10-11-1935,345,TRUE
+259,Wuthering Heights,Emily Brontë,23-11-1941,595,TRUE
+260,Jane Eyre,Charlotte Brontë,18-04-1922,1848,FALSE
+261,Jane Eyre,Charlotte Brontë,01-09-1983,341,FALSE
+262,Jane Eyre,Charlotte Brontë,1858-02-19,695,FALSE
+263,War and Peace,Leo Tolstoy,1886-12-05,1407,TRUE
+264,Crime and Punishment,Fyodor Dostoevsky,1880-08-09,696,TRUE
+265,Frankenstein,Mary Shelley,1881-01-20,1525,FALSE
+266,Anna Karenina,Leo Tolstoy,09-07-1921,1173,TRUE
+267,War and Peace,Leo Tolstoy,08-02-1929,1297,FALSE
+268,Jane Eyre,Charlotte Brontë,07-08-1960,1041,FALSE
+269,Jane Eyre,Charlotte Brontë,1883-12-25,1394,FALSE
+270,Don Quixote,Miguel de Cervantes,03-09-1931,781,TRUE
+271,The Iliad,Homer,07-04-1987,929,TRUE
+272,Wuthering Heights,Emily Brontë,27-11-2002,439,FALSE
+273,The Iliad,Homer,1890-02-23,267,TRUE
+274,The Brothers Karamazov,Fyodor Dostoevsky,19-06-2005,1632,TRUE
+275,Sense and Sensibility,Jane Austen,05-11-1951,766,TRUE
+276,The Odyssey,Homer,02-05-1926,1950,TRUE
+277,War and Peace,Leo Tolstoy,1897-05-03,1671,TRUE
+278,Dracula,Bram Stoker,18-07-1981,235,FALSE
+279,Jane Eyre,Charlotte Brontë,1867-09-02,1876,FALSE
+280,The Picture of Dorian Gray,Oscar Wilde,18-03-1927,1422,TRUE
+281,Moby-Dick,Herman Melville,1893-07-08,1360,FALSE
+282,Wuthering Heights,Emily Brontë,22-11-1938,1041,TRUE
+283,The Picture of Dorian Gray,Oscar Wilde,24-10-1943,805,TRUE
+284,Great Expectations,Charles Dickens,22-10-1902,1162,FALSE
+285,The Count of Monte Cristo,Alexandre Dumas,10-04-1972,327,FALSE
+286,Les Misérables,Victor Hugo,07-04-1979,1474,TRUE
+287,Anna Karenina,Leo Tolstoy,14-08-1913,242,FALSE
+288,Anna Karenina,Leo Tolstoy,04-08-2002,937,FALSE
+289,Pride and Prejudice,Jane Austen,1882-08-25,1508,FALSE
+290,Wuthering Heights,Emily Brontë,06-08-1947,995,FALSE
+291,The Iliad,Homer,1879-11-02,1050,FALSE
+292,Moby-Dick,Herman Melville,22-07-1970,1284,TRUE
+293,Anna Karenina,Leo Tolstoy,1880-03-18,1942,TRUE
+294,Wuthering Heights,Emily Brontë,01-01-1902,1139,TRUE
+295,A Tale of Two Cities,Charles Dickens,03-01-1951,1507,FALSE
+296,Dracula,Bram Stoker,05-08-1909,255,FALSE
+297,Jane Eyre,Charlotte Brontë,12-06-1927,371,FALSE
+298,Les Misérables,Victor Hugo,1868-05-11,836,FALSE
+299,The Adventures of Sherlock Holmes,Arthur Conan Doyle,26-10-1951,592,TRUE
+300,Don Quixote,Miguel de Cervantes,1896-03-07,1809,TRUE
+301,Pride and Prejudice,Jane Austen,12-11-1960,292,TRUE
+302,The Odyssey,Homer,1886-07-03,1230,TRUE
+303,Pride and Prejudice,Jane Austen,09-04-1971,890,FALSE
+304,The Count of Monte Cristo,Alexandre Dumas,11-03-2008,1587,FALSE
+305,Les Misérables,Victor Hugo,27-09-1915,265,FALSE
+306,Pride and Prejudice,Jane Austen,06-11-2007,1222,TRUE
+307,Frankenstein,Mary Shelley,09-12-1934,844,TRUE
+308,Dracula,Bram Stoker,07-05-1906,1794,FALSE
+309,Frankenstein,Mary Shelley,11-02-2017,475,FALSE
+310,Dracula,Bram Stoker,12-09-2005,1913,FALSE
+311,The Odyssey,Homer,30-06-1965,1990,TRUE
+312,Pride and Prejudice,Jane Austen,15-05-1999,558,FALSE
+313,A Tale of Two Cities,Charles Dickens,1880-04-17,1127,FALSE
+314,Jane Eyre,Charlotte Brontë,18-11-2012,979,FALSE
+315,The Adventures of Sherlock Holmes,Arthur Conan Doyle,16-07-1929,783,FALSE
+316,Dracula,Bram Stoker,1852-03-22,607,TRUE
+317,Dracula,Bram Stoker,14-07-1984,1064,FALSE
+318,The Picture of Dorian Gray,Oscar Wilde,1885-11-29,211,TRUE
+319,Jane Eyre,Charlotte Brontë,1899-10-28,223,FALSE
+320,Crime and Punishment,Fyodor Dostoevsky,13-02-1909,1392,TRUE
+321,War and Peace,Leo Tolstoy,1872-03-13,957,TRUE
+322,Les Misérables,Victor Hugo,1886-06-14,1834,TRUE
+323,Moby-Dick,Herman Melville,1887-08-14,1141,TRUE
+324,A Tale of Two Cities,Charles Dickens,29-07-1915,727,FALSE
+325,Crime and Punishment,Fyodor Dostoevsky,05-03-1976,1032,TRUE
+326,Sense and Sensibility,Jane Austen,06-12-1984,205,FALSE
+327,Wuthering Heights,Emily Brontë,05-02-1940,776,TRUE
+328,A Tale of Two Cities,Charles Dickens,08-11-1974,1651,FALSE
+329,The Adventures of Sherlock Holmes,Arthur Conan Doyle,1857-09-11,1093,TRUE
+330,The Iliad,Homer,09-09-2008,1255,TRUE
+331,Frankenstein,Mary Shelley,05-11-1986,1961,TRUE
+332,A Tale of Two Cities,Charles Dickens,16-09-1954,768,FALSE
+333,Sense and Sensibility,Jane Austen,04-11-2003,1195,TRUE
+334,Les Misérables,Victor Hugo,1853-08-25,1958,FALSE
+335,The Count of Monte Cristo,Alexandre Dumas,08-12-1935,1051,TRUE
+336,Dracula,Bram Stoker,06-11-1900,1139,TRUE
+337,War and Peace,Leo Tolstoy,1861-07-01,1563,TRUE
+338,The Iliad,Homer,19-02-1904,1897,TRUE
+339,Crime and Punishment,Fyodor Dostoevsky,17-02-1916,208,FALSE
+340,The Brothers Karamazov,Fyodor Dostoevsky,16-03-1947,252,TRUE
+341,Don Quixote,Miguel de Cervantes,02-02-1990,399,TRUE
+342,The Count of Monte Cristo,Alexandre Dumas,19-05-1903,517,TRUE
+343,Jane Eyre,Charlotte Brontë,1869-11-22,1250,FALSE
+344,The Picture of Dorian Gray,Oscar Wilde,13-07-1911,1042,TRUE
+345,The Adventures of Sherlock Holmes,Arthur Conan Doyle,08-03-1957,1535,FALSE
+346,The Brothers Karamazov,Fyodor Dostoevsky,1887-12-12,1930,FALSE
+347,Dracula,Bram Stoker,28-02-1929,1394,TRUE
+348,The Brothers Karamazov,Fyodor Dostoevsky,1882-12-27,1553,FALSE
+349,War and Peace,Leo Tolstoy,1874-11-27,1076,TRUE
+350,Pride and Prejudice,Jane Austen,10-04-1902,1227,FALSE
+351,A Tale of Two Cities,Charles Dickens,06-10-1909,1983,TRUE
+352,The Odyssey,Homer,1885-02-22,1821,TRUE
+353,The Brothers Karamazov,Fyodor Dostoevsky,1855-08-24,1443,FALSE
+354,Moby-Dick,Herman Melville,1879-02-05,523,TRUE
+355,Wuthering Heights,Emily Brontë,07-08-2012,481,TRUE
+356,Jane Eyre,Charlotte Brontë,06-11-2015,312,FALSE
+357,Dracula,Bram Stoker,28-04-1975,1671,TRUE
+358,Don Quixote,Miguel de Cervantes,15-09-1921,1257,TRUE
+359,The Count of Monte Cristo,Alexandre Dumas,31-01-1935,709,FALSE
+360,The Brothers Karamazov,Fyodor Dostoevsky,17-08-1956,1405,FALSE
+361,Don Quixote,Miguel de Cervantes,22-12-1903,1059,TRUE
+362,The Count of Monte Cristo,Alexandre Dumas,1886-04-11,724,FALSE
+363,Pride and Prejudice,Jane Austen,1893-10-23,879,TRUE
+364,A Tale of Two Cities,Charles Dickens,05-05-1958,1539,TRUE
+365,Frankenstein,Mary Shelley,20-12-2002,1050,FALSE
+366,A Tale of Two Cities,Charles Dickens,1858-10-30,858,FALSE
+367,The Count of Monte Cristo,Alexandre Dumas,24-10-1985,1129,TRUE
+368,The Adventures of Sherlock Holmes,Arthur Conan Doyle,22-08-1911,822,FALSE
+369,Moby-Dick,Herman Melville,11-10-1959,841,TRUE
+370,Great Expectations,Charles Dickens,12-03-1961,1855,FALSE
+371,Pride and Prejudice,Jane Austen,06-12-1931,1658,FALSE
+372,Crime and Punishment,Fyodor Dostoevsky,10-10-1969,1841,TRUE
+373,Wuthering Heights,Emily Brontë,25-09-1961,351,TRUE
+374,The Iliad,Homer,17-02-1957,1166,TRUE
+375,Dracula,Bram Stoker,24-05-1917,630,FALSE
+376,Moby-Dick,Herman Melville,05-04-1954,1315,TRUE
+377,Pride and Prejudice,Jane Austen,1854-09-07,687,TRUE
+378,A Tale of Two Cities,Charles Dickens,1858-01-21,444,FALSE
+379,Moby-Dick,Herman Melville,1882-09-18,575,TRUE
+380,Anna Karenina,Leo Tolstoy,21-10-2005,1786,TRUE
+381,Anna Karenina,Leo Tolstoy,04-06-1957,1444,TRUE
+382,A Tale of Two Cities,Charles Dickens,29-08-1968,1837,FALSE
+383,Les Misérables,Victor Hugo,16-04-1952,530,TRUE
+384,The Odyssey,Homer,10-12-1982,292,FALSE
+385,The Count of Monte Cristo,Alexandre Dumas,18-09-1955,508,FALSE
+386,A Tale of Two Cities,Charles Dickens,21-05-2001,1596,FALSE
+387,War and Peace,Leo Tolstoy,16-01-2018,1207,TRUE
+388,The Count of Monte Cristo,Alexandre Dumas,1859-06-21,801,TRUE
+389,Don Quixote,Miguel de Cervantes,03-02-1901,795,TRUE
+390,Pride and Prejudice,Jane Austen,10-07-1910,1349,TRUE
+391,The Adventures of Sherlock Holmes,Arthur Conan Doyle,1857-12-25,1786,FALSE
+392,Great Expectations,Charles Dickens,02-04-1912,339,FALSE
+393,The Odyssey,Homer,1857-03-11,1676,TRUE
+394,Dracula,Bram Stoker,22-10-1931,883,FALSE
+395,Sense and Sensibility,Jane Austen,27-05-1901,1471,FALSE
+396,The Picture of Dorian Gray,Oscar Wilde,1875-12-31,919,TRUE
+397,The Count of Monte Cristo,Alexandre Dumas,31-01-1938,1151,TRUE
+398,The Iliad,Homer,29-09-1999,665,TRUE
+399,Jane Eyre,Charlotte Brontë,23-08-1998,814,TRUE
+400,Great Expectations,Charles Dickens,11-01-2003,526,TRUE
+401,War and Peace,Leo Tolstoy,26-06-1912,566,FALSE
+402,Wuthering Heights,Emily Brontë,1865-08-23,925,TRUE
+403,Les Misérables,Victor Hugo,21-08-1984,405,TRUE
+404,Jane Eyre,Charlotte Brontë,1869-04-30,1979,FALSE
+405,Dracula,Bram Stoker,15-09-2008,1344,TRUE
+406,The Odyssey,Homer,21-01-1977,540,TRUE
+407,The Odyssey,Homer,01-01-1956,1835,TRUE
+408,Don Quixote,Miguel de Cervantes,1879-06-03,1328,TRUE
+409,Pride and Prejudice,Jane Austen,21-12-1977,1921,FALSE
+410,The Adventures of Sherlock Holmes,Arthur Conan Doyle,22-07-2011,496,FALSE
+411,Great Expectations,Charles Dickens,18-04-2016,1981,FALSE
+412,Don Quixote,Miguel de Cervantes,30-06-1967,1391,TRUE
+413,The Odyssey,Homer,26-05-1958,594,FALSE
+414,Frankenstein,Mary Shelley,29-04-1928,1889,TRUE
+415,Don Quixote,Miguel de Cervantes,22-08-1959,1981,FALSE
+416,The Picture of Dorian Gray,Oscar Wilde,13-09-1932,687,TRUE
+417,The Count of Monte Cristo,Alexandre Dumas,02-04-2020,1514,FALSE
+418,The Count of Monte Cristo,Alexandre Dumas,12-08-1915,1687,TRUE
+419,The Iliad,Homer,04-11-1990,553,FALSE
+420,The Adventures of Sherlock Holmes,Arthur Conan Doyle,29-08-1986,1787,TRUE
+421,Crime and Punishment,Fyodor Dostoevsky,19-06-1907,1459,TRUE
+422,War and Peace,Leo Tolstoy,27-02-1946,1613,TRUE
+423,A Tale of Two Cities,Charles Dickens,24-04-2002,1963,FALSE
+424,The Adventures of Sherlock Holmes,Arthur Conan Doyle,29-10-1963,1540,FALSE
+425,The Count of Monte Cristo,Alexandre Dumas,06-12-2005,1041,TRUE
+426,The Iliad,Homer,30-07-1913,1360,FALSE
+427,A Tale of Two Cities,Charles Dickens,09-07-1933,399,TRUE
+428,The Count of Monte Cristo,Alexandre Dumas,06-01-1949,1218,FALSE
+429,Anna Karenina,Leo Tolstoy,17-05-1924,1370,FALSE
+430,Sense and Sensibility,Jane Austen,03-05-1994,1648,TRUE
+431,War and Peace,Leo Tolstoy,02-05-1945,282,TRUE
+432,The Iliad,Homer,1898-05-21,1284,TRUE
+433,A Tale of Two Cities,Charles Dickens,30-08-1920,696,FALSE
+434,The Brothers Karamazov,Fyodor Dostoevsky,15-03-2009,1948,TRUE
+435,Crime and Punishment,Fyodor Dostoevsky,06-06-1949,693,FALSE
+436,Dracula,Bram Stoker,07-07-1997,827,TRUE
+437,Don Quixote,Miguel de Cervantes,03-03-1961,316,FALSE
+438,Les Misérables,Victor Hugo,1879-01-10,524,TRUE
+439,Sense and Sensibility,Jane Austen,28-11-1995,532,TRUE
+440,The Iliad,Homer,17-05-1959,1455,FALSE
+441,The Iliad,Homer,15-02-1941,719,FALSE
+442,A Tale of Two Cities,Charles Dickens,20-07-1996,1112,FALSE
+443,Moby-Dick,Herman Melville,17-05-1929,404,FALSE
+444,The Adventures of Sherlock Holmes,Arthur Conan Doyle,22-02-1966,1959,FALSE
+445,The Adventures of Sherlock Holmes,Arthur Conan Doyle,06-05-2020,579,FALSE
+446,Sense and Sensibility,Jane Austen,11-04-1930,616,FALSE
+447,The Odyssey,Homer,1899-06-09,1242,FALSE
+448,Crime and Punishment,Fyodor Dostoevsky,02-04-1983,1297,TRUE
+449,Frankenstein,Mary Shelley,22-12-1998,1742,TRUE
+450,Don Quixote,Miguel de Cervantes,1881-08-16,1007,TRUE
+451,Jane Eyre,Charlotte Brontë,07-11-1907,1508,TRUE
+452,Les Misérables,Victor Hugo,1895-10-15,513,FALSE
+453,The Adventures of Sherlock Holmes,Arthur Conan Doyle,1864-06-15,1047,FALSE
+454,Les Misérables,Victor Hugo,12-08-1910,1916,FALSE
+455,The Odyssey,Homer,1879-08-14,603,TRUE
+456,Moby-Dick,Herman Melville,1889-03-31,1303,FALSE
+457,Dracula,Bram Stoker,03-08-1942,1062,TRUE
+458,War and Peace,Leo Tolstoy,1885-05-06,1988,TRUE
+459,The Iliad,Homer,1861-02-07,1229,TRUE
+460,Sense and Sensibility,Jane Austen,25-01-2020,1092,FALSE
+461,The Iliad,Homer,1892-05-12,1585,TRUE
+462,The Iliad,Homer,23-09-2001,1858,FALSE
+463,Dracula,Bram Stoker,28-06-1917,1775,FALSE
+464,A Tale of Two Cities,Charles Dickens,23-11-1914,1687,TRUE
+465,The Adventures of Sherlock Holmes,Arthur Conan Doyle,03-03-2000,903,FALSE
+466,The Iliad,Homer,04-09-2002,1041,FALSE
+467,Moby-Dick,Herman Melville,23-06-1943,306,FALSE
+468,The Odyssey,Homer,1863-12-03,711,FALSE
+469,Jane Eyre,Charlotte Brontë,24-06-1929,1121,TRUE
+470,Wuthering Heights,Emily Brontë,11-10-1913,251,TRUE
+471,Sense and Sensibility,Jane Austen,14-02-1946,1363,FALSE
+472,Jane Eyre,Charlotte Brontë,02-04-1944,829,TRUE
+473,The Brothers Karamazov,Fyodor Dostoevsky,23-10-1931,1806,TRUE
+474,Crime and Punishment,Fyodor Dostoevsky,1869-01-21,1205,TRUE
+475,Dracula,Bram Stoker,28-01-1958,1568,TRUE
+476,Dracula,Bram Stoker,17-05-1902,292,TRUE
+477,Moby-Dick,Herman Melville,1853-11-12,1023,FALSE
+478,A Tale of Two Cities,Charles Dickens,06-02-1941,797,FALSE
+479,Crime and Punishment,Fyodor Dostoevsky,12-08-2003,1874,TRUE
+480,Anna Karenina,Leo Tolstoy,1863-04-23,1899,FALSE
+481,The Count of Monte Cristo,Alexandre Dumas,31-01-1957,1306,FALSE
+482,Jane Eyre,Charlotte Brontë,1875-07-25,757,FALSE
+483,Anna Karenina,Leo Tolstoy,16-11-1916,1206,FALSE
+484,Don Quixote,Miguel de Cervantes,1894-08-23,227,TRUE
+485,Les Misérables,Victor Hugo,18-11-1937,1644,TRUE
+486,Jane Eyre,Charlotte Brontë,06-12-2005,1933,TRUE
+487,Wuthering Heights,Emily Brontë,05-02-1979,1664,FALSE
+488,Anna Karenina,Leo Tolstoy,1893-05-20,1816,FALSE
+489,The Odyssey,Homer,02-12-1975,1363,TRUE
+490,War and Peace,Leo Tolstoy,13-01-2015,1633,FALSE
+491,Dracula,Bram Stoker,14-04-1932,1413,TRUE
+492,A Tale of Two Cities,Charles Dickens,16-02-2004,1797,FALSE
+493,The Count of Monte Cristo,Alexandre Dumas,11-06-1917,939,FALSE
+494,The Adventures of Sherlock Holmes,Arthur Conan Doyle,06-07-1958,621,TRUE
+495,Les Misérables,Victor Hugo,1855-11-12,648,FALSE
+496,Anna Karenina,Leo Tolstoy,1859-05-31,1265,FALSE
+497,The Odyssey,Homer,10-07-1910,1176,TRUE
+498,Wuthering Heights,Emily Brontë,03-02-1989,628,FALSE
+499,Frankenstein,Mary Shelley,23-12-1924,461,FALSE
+500,Jane Eyre,Charlotte Brontë,1866-08-23,1359,FALSE
